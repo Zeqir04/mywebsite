@@ -8,18 +8,25 @@ import ContactInfo from './ContactInfo';
 
 const projects = [
   {
+    title: "HTML, CSS & JS Project",
+    text: "I built a responsive website using HTML, CSS, and JavaScript with Flexbox and Grid for layout. It includes interactive elements like smooth scrolling, a modal, and a toggleable navbar.",
+    Btext: "HTML Project",
+    URL: "https://zeqir04.github.io/OOPBuildingPlatformerGame/"
+  },
+  {
+    title: "PHP Project",
+    text: "Full Stack Project",
+    Btext: "PHP Project",
+    URL: "https://zeqir04.github.io/SH.B.TETOVA/"
+  },
+  {
     title: "React Project",
-    text: "In this project i implemented React ..."
-  },
-  {
-    title : "C# Project",
-    text : "Full Stack Project "
-  },
-  {
-    title : "Html,CSS & JS",
-    text : "Front End Development"
+    text: "Front End Development",
+    Btext: "React Project",
+    URL: "https://zeqir04.github.io/SH.B.TETOVA/"
   }
 ];
+
 
 const education = [
   {
@@ -53,6 +60,8 @@ const contacts = [
     info: "Tetovo, North Macedonia"
   }
 ]
+
+
 
 
 function App() {

@@ -3,6 +3,7 @@ import { Button } from '@mui/material';
 import { Link } from 'react-scroll';
 
 function Header(){
+
     return <>
       <div className='header' id='home'>
           <div className='pagination'>
@@ -24,7 +25,7 @@ function Header(){
   
     I'm always open to new challenges and opportunities—let’s build something amazing together!</span>
     <span>
-    <Button variant="contained" href="#contained-buttons">
+    <Button variant="contained" href="https://drive.google.com/file/d/15-IaT6V16L3YTna4HPkwzyTwmtVayIt9/view?usp=sharing" target='_blank' rel="noopener noreferrer" className="button">
   Resume
 </Button>
     </span>
