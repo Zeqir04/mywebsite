@@ -20,7 +20,7 @@ function ContactInfoItem({ contact, info }) {
         <div className='item'>
             <p className='number'>{info}</p>
             {isEmail ? (
-                <a href={`mailto:${contact}`} className='title'>{contact}</a>
+                <a href={`mailto:${contact}`} className="title">{contact}</a>
             ) : isPhone ? (
                 <a href={`tel:${contact}`} className='title'>{contact}</a>
             ) : isLocation ? (

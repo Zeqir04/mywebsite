@@ -301,13 +301,14 @@ body {
 
   .item {
     /* grid-template-columns: 1fr; */
-    padding: 10px;
+    padding: 20px;
+    width: 100%;
   }
 
   .number,
   .title,
   .icon {
-    font-size: 18px;
+    font-size: 15px;
   }
 
   .title img {
