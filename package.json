@@ -1,7 +1,7 @@
 {
   "name": "testit",
   "version": "0.1.0",
-  "homepage": "https://Zeqir04.github.io/mywebsite",
+  "homepage": "https://ZeQ1R.github.io/mywebsite",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
@@ -30,7 +30,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-
   "eslintConfig": {
     "extends": [
       "react-app",

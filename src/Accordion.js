@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Button } from '@mui/material';
 
 
-function Accordion({data,button}){
+function Accordion({data}){
     return(
       <div className='layout' id='projects'> 
       <h3>My Personal Projects</h3>

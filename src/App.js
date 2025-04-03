@@ -8,22 +8,22 @@ import ContactInfo from './ContactInfo';
 
 const projects = [
   {
-    title: "HTML, CSS & JS Project",
-    text: "I built a responsive website using HTML, CSS, and JavaScript with Flexbox and Grid for layout. It includes interactive elements like smooth scrolling, a modal, and a toggleable navbar.",
-    Btext: "HTML Project",
-    URL: "https://zeqir04.github.io/OOPBuildingPlatformerGame/"
+    title: "Platformer Game",
+    text: "This is a simple platformer game built with JavaScript and HTML5 Canvas. The game features a character that can jump and move left or right, avoiding obstacles and collecting coins. It showcases basic game mechanics and physics.",
+    Btext: "JavaScript Game",
+    URL: "https://github.com/ZeQ1R/OOPBuildingPlatformerGame"
   },
   {
-    title: "PHP Project",
-    text: "Full Stack Project",
-    Btext: "PHP Project",
-    URL: "https://zeqir04.github.io/SH.B.TETOVA/"
+    title: "Mountain Climbing Site",
+    text: "This is a simple website built with HTML, CSS, and JavaScript. It showcases a mountain climbing site with information about different climbing routes, tips for climbers, and a gallery of climbing photos. The site is responsive and user-friendly.",
+    Btext: "HTML/CSS/JS Project",
+    URL: "https://github.com/ZeQ1R/SH.B.TETOVA"
   },
   {
-    title: "React Project",
-    text: "Front End Development",
-    Btext: "React Project",
-    URL: "https://zeqir04.github.io/SH.B.TETOVA/"
+    title: "ToDo List Project",
+    text: "This is a simple ToDo List application built with React + Vite. It allows users to add, delete, and mark tasks as completed. The app uses local storage to persist data. It features a clean and user-friendly interface, making it easy to manage tasks efficiently.",
+    Btext: "React + Vite Project",
+    URL: "https://github.com/ZeQ1R/ToDoList"
   }
 ];
 

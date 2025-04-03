@@ -17,13 +17,12 @@ function Header(){
       
         <div className='container' >
           <h1>About Me</h1>
-          <span>I am a dedicated Full-Stack Developer with expertise in ASP.NET Core, JavaScript, React, SQL Server, and Entity Framework. Passionate about creating modern, functional, and responsive web applications, I focus on delivering high-quality digital solutions with secure authentication, database integration, and interactive UI components.
-  
-    Beyond coding, I have a strong leadership background, having organized community-driven activities such as hiking expeditions, creating new trails, and environmental clean-ups. This experience has shaped me into a team player, problem solver, and fast learner who thrives in dynamic environments.
-  
-    Currently, I offer website development and video editing services, helping individuals and businesses bring their ideas to life with sleek designs and seamless functionality.
-  
-    I'm always open to new challenges and opportunities—let’s build something amazing together!</span>
+         <span> I am a passionate and dedicated front-end developer with a strong foundation in web development.
+           I have a keen eye for design and a commitment to creating user-friendly interfaces. 
+           My skills include HTML, CSS, JavaScript, React, and Vite.
+           I am always eager to learn and stay updated with the latest trends in web development. 
+           Also I'm familiar with back-end development using Node.js and C#, and I have experience working with databases like PostreSQL. 
+           </span>
     <span>
     <Button variant="contained" href="https://drive.google.com/file/d/15-IaT6V16L3YTna4HPkwzyTwmtVayIt9/view?usp=sharing" target='_blank' rel="noopener noreferrer" className="button">
   Resume

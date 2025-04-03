@@ -16,7 +16,7 @@ function SocialMedia(){
       <div className='item'>
           <p className='number'>GitHub</p>
           <p className='title'>
-            <a href='https://github.com/Zeqir04'>
+            <a href='https://github.com/ZeQ1R'>
             <img src={github} alt='GitHub' /></a>
           </p>
       </div>
