@@ -1,6 +1,4 @@
-import FiberManualRecordIcon from '@mui/icons-material/FiberManualRecord';
 import { Button } from '@mui/material';
-import { Link } from 'react-scroll';
 
 function Header(){
 
