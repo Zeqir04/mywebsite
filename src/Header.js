@@ -6,14 +6,14 @@ function Header(){
 
     return <>
       <div className='header' id='home'>
-          <div className='pagination'>
+          {/* <div className='pagination'>
             <Link to="home" smooth={true} duration={500}><FiberManualRecordIcon></FiberManualRecordIcon></Link>
             <Link to="projects" smooth={true} duration={500}><FiberManualRecordIcon></FiberManualRecordIcon></Link>
             <Link to="education" smooth={true} duration={500}><FiberManualRecordIcon></FiberManualRecordIcon></Link>
             <Link to="socialmedia" smooth={true} duration={500}><FiberManualRecordIcon></FiberManualRecordIcon></Link>
             <Link to="contactinfo" smooth={true} duration={500}><FiberManualRecordIcon></FiberManualRecordIcon></Link>
 
-          </div>
+          </div> */}
       
         <div className='container' >
           <h1>About Me</h1>

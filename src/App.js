@@ -5,6 +5,7 @@ import Header from './Header';
 import SocialMedia from './SocialMedia';
 import Footer from './Footer';
 import ContactInfo from './ContactInfo';
+import BackToTopButton from './BackToTopButton';
 
 const projects = [
   {
@@ -73,6 +74,7 @@ function App() {
       <Education education={education}/>
       <SocialMedia/>
       <ContactInfo contact={contacts}/>
+      <BackToTopButton/>
       <Footer />
     </div>
   );
